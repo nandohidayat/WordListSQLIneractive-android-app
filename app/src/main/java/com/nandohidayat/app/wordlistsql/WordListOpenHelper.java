@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.example.wordlistsql;
+package com.nandohidayat.app.wordlistsql;
 
 import android.content.ContentValues;
 import android.content.Context;
